@@ -1,5 +1,7 @@
 # Patient-Metrics
 
+https://public.tableau.com/views/PatientMetricsDashboard/Overview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 To build a real-time dashboard for patient metrics in Tableau, I would take the following approach:
 
 #Gathering and Integrating Data:
@@ -31,3 +33,5 @@ Note: This project is hosted on Tableau Public platform.
 I would establish a feedback loop to continuously improve the dashboard based on user feedback and evolving requirements.
 Regular monitoring and updating of the dashboard would be necessary, especially when there are changes in data sources or business needs.
 My goal in this process would be to create a dashboard that's not only technically efficient but also intuitive and insightful for its users.
+
+
