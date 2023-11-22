@@ -11,7 +11,7 @@ For real-time tracking, it's crucial that these data sources support live update
 #Data Preparation:
 I would clean and format the data appropriately, which might involve standardizing formats, addressing missing values, and summarizing data.
 I’d identify the key patient metrics that I need to track, such as vital signs, patient admissions, and duration of hospital stays.
-Note: I used sample fake data to rendered this dashboard(attached in folder).
+Note: I used sample fake data to rendered this dashboard(person+.hyper file).
 
 #Dashboard Design:
 In designing the dashboard, I would choose the most appropriate visual representations for each metric, like charts, graphs, or tables.
